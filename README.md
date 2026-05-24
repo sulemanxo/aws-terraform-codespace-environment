@@ -1,10 +1,6 @@
 # aws-terraform-codespace-environment
 A fully automated, zero-install cloud engineering workspace using GitHub Codespaces, pre-configured with the AWS CLI and Terraform.
 
-# AWS & Terraform Codespace Environment ☁️🛠️
-
-A fully automated, cloud-based development environment for AWS and Terraform projects. 
-
 This repository uses a custom `devcontainer.json` configuration to automatically build a sterile, ready-to-use cloud environment directly in your browser.
 
 ## ✨ Features
