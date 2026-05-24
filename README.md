@@ -49,3 +49,8 @@ Once the terminal is ready, run these two commands to verify your environment is
 **Verify AWS Authentication:**
 ```bash
 aws sts get-caller-identity
+```
+**Verify Terraform Installation:**
+```bash
+terraform --version
+```
